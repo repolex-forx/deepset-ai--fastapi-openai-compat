@@ -1,0 +1,11 @@
+{
+  "org": "deepset-ai",
+  "repo": "fastapi-openai-compat",
+  "versions": [
+    {
+      "commit": "e8069f3f17e1593abe19dc7cc611dcc416f5505d",
+      "tag": "",
+      "parsed_at": "2026-11-08T02:25:54.091337+00:00"
+    }
+  ]
+}
