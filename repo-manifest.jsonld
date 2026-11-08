@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/deepset-ai/fastapi-openai-compat/commit/e8069f3f17e1593abe19dc7cc611dcc416f5505d",
       "git:hexsha": "e8069f3f17e1593abe19dc7cc611dcc416f5505d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/deepset-ai/fastapi-openai-compat/commit/78a877ecdcbfe3cd233e95e690f1d759e8cada62",
